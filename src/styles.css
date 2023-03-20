@@ -1,0 +1,50 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-image: url("https://media.gettyimages.com/id/1369207279/photo/confident-woman-giving-a-presentation-with-a-group-of-people.jpg?s=612x612&w=0&k=20&c=L-9XUVZfVN4S46JjmdXu-h_jbPksxCXu9huIHqTWKyM=");
+}
+
+.appText {
+  background-color: #000000c7;
+  opacity: 1;
+}
+
+.appText h1,
+h3 {
+  color: #fff;
+}
+
+.mainDiv {
+  width: 480px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #080b1a;
+  color: #fff;
+}
+
+/* h1, h3 {
+  background-color: #51515F;
+
+} */
+
+h4 {
+  padding-right: 10px;
+}
+.navList {
+  display: flex;
+  justify-content: space-around;
+}
+
+button {
+  width: 150px;
+  height: 40px;
+  border-radius: 25px;
+  border: none;
+  background-color: #0c1227;
+  color: #fff;
+}
+
+.body {
+  display: flex;
+  width: 480px;
+}
